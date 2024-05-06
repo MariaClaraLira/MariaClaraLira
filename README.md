@@ -1,10 +1,5 @@
-<img align="right" alt="Design" height="" src="https://i.im.ge/2024/05/06/ZRA9lc.image.png">
-
 <h1>
-    <a href="https://github.com/MariaClaraLira">
-     <img align="center" alt="Logo Clara Lira" width="36px" src="https://i.im.ge/2024/05/06/ZRUSSa.Untitled-design-2-removebg-preview.png"></a>
-    <span>Maria Clara Lira</span>
-
+<span>Maria Clara Lira</span>
 </h1>
 
 ### 🐍print("Olá, mundo!")
