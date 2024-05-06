@@ -12,7 +12,7 @@ Me chamo Maria, sou estudante de Engenharia da computação, atualmente focada n
 
 <h1> </h1>
 
-### 🐍print("Olá, mundo!")
+### 🐍print("Hello, World!")
 <p align="justify">Hey, what's up?
 <br>I'm Maria, and I'm a Computer Engineering student. Currently, I'm focused on programming languages like Java and Python, along with studying SQL, and I have a great fascination for hardware.
 <br>
