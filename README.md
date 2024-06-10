@@ -6,7 +6,7 @@
 <p align="justify">
 Olá, tudo bem?
 <br>
-Me chamo Maria, sou estudante de Engenharia da computação, atualmente focada nas linguagens de programação Java e Python, além dos etudos com SQL e grande fascínio por hardware.
+Me chamo Maria, sou estudante de Engenharia da computação, atualmente focada nas linguagens de programação Java e Python, além dos estudos com SQL e grande fascínio por hardware.
 <br>
  Como hobby, eu amo séries e filmes de ficção científica, além de tentar tocar alguns instrumentos musicais e produzir artefatos de decoração na minha loja <a href="https://www.instagram.com/_pegasus_art?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">(@_pegaus_art)</a>.</p>
 
